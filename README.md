@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+About Me:
+Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook, configure my text editor, and learn new programming languages!
+
+Currently Building: Web app PHP MYSQL
+
+Setup
+Editor: vscode
+Terminal: 
+OS: Windows 11
+
+Languages
+PHP
+HTML
+CSS
+JAVASCRIPT
+
+
 <!--
 **dus-g/dus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
