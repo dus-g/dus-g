@@ -6,9 +6,10 @@ Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook
 Currently Building: Web app PHP MYSQL
 
 ## Setup
--Editor: vscode
--Terminal: 
+-Laptop: https://www.acer.com/us-en/laptops/nitro/nitro-v-15
 -OS: Windows 11
+-Configs: Startallback & TranslucentTB
+-Editor: vscode
 
 ## Languages
 -PHP
