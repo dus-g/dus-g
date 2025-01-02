@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-About Me:
+## About Me:
 Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook, configure my text editor, and learn new programming languages!
 
-Currently Building: Web app PHP MYSQL
+## Currently Building: Web app PHP MYSQL
 
-Setup
+## Setup
 Editor: vscode
 Terminal: 
 OS: Windows 11
 
-Languages
+## Languages
 PHP
 HTML
 CSS
