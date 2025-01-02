@@ -6,7 +6,7 @@ Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook
 Currently Building: Web app PHP MYSQL
 
 ## Setup
-#Editor: vscode
+Editor: vscode
 Terminal: 
 OS: Windows 11
 
