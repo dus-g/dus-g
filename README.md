@@ -1,21 +1,22 @@
 ## Hello there Internet! 👋 
 
 ## About Me:
-Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook and learn new programming languages!
+Hello there! I am Dušan, I am a student, and a programmer. I love to listen to music, cook and learn new programming languages!
 
-Currently Building: Web app PHP MYSQL
+
 
 ## Setup
--Laptop: https://www.acer.com/us-en/laptops/nitro/nitro-v-15
--OS: Windows 11
--Configs: Startallback & TranslucentTB
--Editor: vscode
+- Laptop: ACER Nitro V15 
+- OS: Windows 11
+- Configs: StartAllBack & TranslucentTB
+- Editor: VsCode
 
 ## Languages
--PHP
--HTML
--CSS
--JAVASCRIPT
+- Front End: HTML, CSS, JavaScript
+- Back End: PHP (for now hehe)
+- Databases: MYSQL
+- Frameworks: None ATM
+
 
 
 <!--
