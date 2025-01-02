@@ -1,20 +1,20 @@
-## Hi there 👋
+## Hello there Internet! 👋 
 
 ## About Me:
-Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook, configure my text editor, and learn new programming languages!
+Hi! I'm a student and entry level PHP Developer. I love to listen to music, cook and learn new programming languages!
 
 Currently Building: Web app PHP MYSQL
 
 ## Setup
-Editor: vscode
-Terminal: 
-OS: Windows 11
+-Editor: vscode
+-Terminal: 
+-OS: Windows 11
 
 ## Languages
-PHP
-HTML
-CSS
-JAVASCRIPT
+-PHP
+-HTML
+-CSS
+-JAVASCRIPT
 
 
 <!--
