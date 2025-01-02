@@ -13,7 +13,7 @@ Hello there! I am Dušan, I am a student, and a programmer. I love to listen to 
 
 ## Languages
 - Front End: HTML, CSS, JavaScript
-- Back End: PHP (for now hehe)
+- Back End: PHP (for now)
 - Databases: MYSQL
 - Frameworks: None ATM
 
