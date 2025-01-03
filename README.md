@@ -1,7 +1,7 @@
 ## Hello there Internet! 👋 
 
 ## About Me:
-Hello there! I am Dušan, I am a student, and a programmer. I love to listen to music, cook and learn new programming languages!
+Hi Internet! Welcome to my portfolio. I will be sharing my progress and my projects here. I am a passionate learner, focusing on programming, mathematics, AI, and building new projects. I enjoy cooking, films, tennis & food 😎
 
 
 
