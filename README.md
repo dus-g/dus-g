@@ -1,10 +1,5 @@
 ## Hello there Internet! 👋 
 
-## About Me:
-Hi Internet! Welcome to my portfolio. I will be sharing my progress and my projects here. I am a passionate learner, focusing on programming, mathematics, AI, and building new projects. I enjoy cooking, films, tennis & food 😎
-
-
-
 ## Setup
 - Laptop: ACER Nitro V15 
 - OS: Windows 11
